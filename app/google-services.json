@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218215859151",
+    "project_id": "allmydata-56a4f",
+    "storage_bucket": "allmydata-56a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218215859151:android:0c3242cedd1bdc119708ba",
+        "android_client_info": {
+          "package_name": "garcia.samuel.allmydata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218215859151-7bvbro0ni1gi7cdkrf7ssovov49g9m8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtTRSFrN1GpUDmsHK4Z-SIPHDe6hEQFVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218215859151-7bvbro0ni1gi7cdkrf7ssovov49g9m8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
